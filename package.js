@@ -1,5 +1,5 @@
 // package metadata file for Meteor.js
-
+/*you are good*/
 /* jshint strict:false */
 /* global Package:true */
 
